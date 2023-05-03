@@ -1,0 +1,29 @@
+.contador p:nth-child(1) span {
+    color: red;
+    font-weight: bold;
+}
+
+.contador p:nth-child(2) span {
+    font-weight: bold;
+}
+
+.contador button {
+    margin: 3px;
+}
+
+.nomeCompleto form input[type=text] {        
+    margin: 8px 0;
+    display: block;        
+
+}
+
+
+.nomeCompleto form [type=submit] {        
+    width: 11.2%;     
+
+}
+
+.adicionarParagrafo button{
+    margin: 3px;
+    
+}
